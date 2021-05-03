@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Gandhi</h1>
 <h3 align="center">Most Of My Repositories Are Private :></h3>
-
+<center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faded-ninja&label=Profile%20views&color=0e75b6&style=flat" alt="faded-ninja" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faded-ninja" alt="faded-ninja" /></a> </p>
@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faded-ninja&show_icons=true&locale=en" alt="faded-ninja" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faded-ninja&" alt="faded-ninja" /></p>
+</center>
